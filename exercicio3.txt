@@ -1,5 +1,3 @@
-CÓDIGO FEITO EM JAVASCRIPT;
-
 Em uma inscrição, o usuário informou os seguintes dados:
 
 - Nome: José Almeida da Silva;
@@ -15,17 +13,17 @@ No algoritmo, descreva como será:
 
 RESPOSTA:
 
-Utilizando Javascript como exemplo.
+As variáveis serão do tipo caractere e real;
 
-Para o nome, declaro uma const nome ou let nome e atribuo o valor dentro de aspas. EX: const nome = "José Almeida da Silva". Nesse caso não vou alterar o valor da váriavel, por isso utilizei o const;
+Para o nome, declaro nome: caractere e atribuo o valor dentro de aspas. EX: nome <- "José Almeida da Silva".
 
-Para o cpf, declaro uma const cpf ou let cpf e atribuo o valor dentro de aspas ou somente o número. Caso você queira que seja uma string basta colocar entre aspas. Porém, apenas o número já serve, logo está váriavel será do tipo inteiro, ou Number em Javascript. EX: const cpf = 12345678900. Nesse caso não vou alterar o valor da váriavel, por isso utilizei o const;
+Para o cpf, declaro cpf: caractere e atribuo o valor dentro de aspas. EX: cpf <- "12345678900".
 
-Para o rg, posso fazer a mesma coisa que eu fiz com o cpf. Declaro uma const rg ou let rg e atribuo o valor dentro de aspas ou somente o número. Caso você queira que seja uma string basta colocar entre aspas. Porém, apenas o número já serve, logo está váriavel será do tipo inteiro, ou Number em Javascript. EX: const rg = 9517530. Nesse caso não vou alterar o valor da váriavel, por isso utilizei o const;
+Para o rg, declaro rg: caractere e atribuo o valor dentro de aspas. EX: rg <- "9517530".
 
-Para a altura, declaro uma const altura ou let altura e atribuo o valor na váriavel. Logo está váriavel será do tipo real, ou Number em Javascript. EX: const altura = 1.78. Nesse caso não vou alterar o valor da váriavel, por isso utilizei o const;
+Para a altura, declaro altura: real e atribuo o valor na váriavel. EX: altura <- 1.78.
 
-Para o endereço, declaro uma const endereço ou let endereço e atribuo o valor dentro de aspas. EX: const endereço = "Rua A, 380 – Centro – Recife/PE". Nesse caso não vou alterar o valor da váriavel, por isso utilizei o const;
+Para o endereço, declaro endereço: caractere e atribuo o valor dentro de aspas. EX: endereço <- "Rua A, 380 – Centro – Recife/PE".
 
 
 
